@@ -1,7 +1,7 @@
-# 🛍️ Shopping App
+#  Shopping App
 
 A simple **Spring Boot + Thymeleaf + PostgreSQL** web application to manage products.  
-This project demonstrates a full **CRUD (Create, Read, Update, Delete)** product management system with a responsive interface built using **Bootstrap**.
+This project demonstrates a full **CRUD (Create, Read, Update, Delete)** product management system with a clean UI built using **Bootstrap**.
 
 ---
 
@@ -22,16 +22,6 @@ This project demonstrates a full **CRUD (Create, Read, Update, Delete)** product
 - **Build Tool:** Maven
 - **Version Control:** Git + GitHub
 - **IDE:** IntelliJ IDEA
-
----
-
-## **Project Screenshots**
-
-### **Home Page**
-![Home Page](https://github.com/sainikhitha1506/Nikhi-s-shopping-app/blob/main/assets/homepage.png?raw=true)
-
-### **Product List Page**
-![Product List](https://github.com/sainikhitha1506/Nikhi-s-shopping-app/assets/productlist.png)
 
 ---
 
@@ -67,21 +57,6 @@ arduino
 Copy
 Edit
 http://localhost:8080
-How It Works
-Home Page – A simple landing page with a "View Products" button.
-
-Product List – Displays all products with options to Add, Edit, Delete, and Search.
-
-CRUD Operations –
-
-Add Product: Add a new product with name, description, price, and image URL.
-
-Edit Product: Update product details.
-
-Delete Product: Remove products from the database.
-
-Search: Search products by name or keyword.
-
 Future Enhancements
 Implement user authentication (admin login).
 
